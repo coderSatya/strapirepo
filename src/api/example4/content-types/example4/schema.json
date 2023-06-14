@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "example4s",
+  "info": {
+    "singularName": "example4",
+    "pluralName": "example4s",
+    "displayName": "example4"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "productname": {
+      "type": "string"
+    },
+    "productbrand": {
+      "type": "string"
+    }
+  }
+}
